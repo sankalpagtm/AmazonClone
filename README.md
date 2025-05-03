@@ -26,7 +26,6 @@ This is a static **Amazon clone website** built using only **HTML** and **CSS**.
 ## 📸 Demo
 
 [🔗 Live Demo](https://amazon-clone-snowy-seven.vercel.app/) 
-![Screenshot](Screenshot(35).png)
 ![Screenshot]() 
 
 ---
